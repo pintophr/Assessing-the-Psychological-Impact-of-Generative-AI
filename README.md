@@ -1,7 +1,7 @@
 ## Assessing-the-Psychological-Impact-of-Generative-AI-on-Data-Science-Education
 ### Dataset and code used in the article.
 
-### Pandas: As the backbone of our data manipulation efforts, Pandas provided an efficient platform for organizing, cleaning, and transforming the collected survey data into a structured format suitable for analysis.
+Pandas: As the backbone of our data manipulation efforts, Pandas provided an efficient platform for organizing, cleaning, and transforming the collected survey data into a structured format suitable for analysis.
 
 Pingouin: This library was instrumental in performing advanced statistical calculations. It allowed us to conduct Spearman's correlation analysis, offering insights into the relationships between various psychometric scales.
 
