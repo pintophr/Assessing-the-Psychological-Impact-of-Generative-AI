@@ -1,4 +1,4 @@
-## Assessing-the-Psychological-Impact-of-Generative-AI-on-Data-Science-Education
+## Assessing the Psychological Impact of Generative AI on Data Science Education: An Exploratory Study
 ### Libraries used in the research and their descriptions
 
 Pandas: As the backbone of our data manipulation efforts, Pandas provided an efficient platform for organizing, cleaning, and transforming the collected survey data into a structured format suitable for analysis.
